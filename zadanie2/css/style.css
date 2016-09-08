@@ -1,3 +1,22 @@
-/*
-** tu powinny być zdefiniowane style css dla dokumentu html
-**/
+﻿        #paragraf1 {
+	   font-size:12px;
+	}
+	#paragraf2 {
+	   font-size:20px;
+	   font-weight:700;
+	}
+	.par1 {
+            font-size:16px;
+        }
+        .polecenie4 {
+            background-color: forestgreen;
+        }
+        #inwokacja {
+            background: yellow;
+        }
+        div {
+            background: red;
+        }
+        .Tadeusz {
+            background: blue !important
+        }

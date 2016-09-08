@@ -1,8 +1,15 @@
-﻿        .par1 {
-            font-size:16px
+﻿        #paragraf1 {
+	   font-size:12px;
+	}
+	#paragraf2 {
+	   font-size:20px;
+	   font-weight:700;
+	}
+	.par1 {
+            font-size:16px;
         }
         .polecenie4 {
-            background-color: forestgreen
+            background-color: forestgreen;
         }
         #inwokacja {
             background: yellow;
