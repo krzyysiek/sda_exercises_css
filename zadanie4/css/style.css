@@ -1,3 +1,29 @@
-/*
-** tu powinny być zdefiniowane style css dla dokumentu html
-**/
+﻿.para {
+color:yellow;
+background-color:black
+}
+
+.rodzic {
+background-color:green;
+color:black
+}
+
+.rodzic .para {
+font-size:20px;
+}
+
+#paragraf {
+background-color:red
+}
+
+.lista {
+background-color:white
+}
+
+.third {
+background-color:grey
+}
+
+#zaw {
+font-weight:bold
+}

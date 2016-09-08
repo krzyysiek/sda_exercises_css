@@ -1,3 +1,10 @@
-/*
-** tu powinny być zdefiniowane style css dla dokumentu html
-**/
+﻿#klasy {
+color:white;
+background-color:green;
+font-size:24px
+}
+
+#par1 {
+border:1px solid black;
+border-color:black
+}

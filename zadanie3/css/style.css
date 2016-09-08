@@ -1,3 +1,44 @@
-/*
-** tu powinny być zdefiniowane style css dla dokumentu html
-**/
+﻿#par1 {
+color:red
+}
+#par2 {
+color:green
+}
+#pierwsze {
+color:grey
+}
+#drugie {
+color:purple
+}
+#sekcja1 {
+height:100px;
+background-color: rgba(0, 0, 0, .5)
+}
+#sekcja2 {
+height:100px;
+background-color:#FFFFFF
+}
+
+html {
+font-size:20px;
+}
+
+#zadanie5 {
+font-size:1.5em
+}
+#zad5a {
+font-size:1.5em
+}
+#zad5b {
+font-size:2em
+}
+
+#zadanie6 {
+font-size:1.5rem
+}
+#zad6a {
+font-size:1.5rem
+}
+#zad6b {
+font-size:2rem
+}

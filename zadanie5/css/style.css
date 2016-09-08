@@ -1,3 +1,32 @@
-/*
-** tu powinny być zdefiniowane style css dla dokumentu html
-**/
+﻿.nag {
+font-size:20px
+}
+
+.nag45 {color:blue
+}
+
+.red, .yellow {
+background-color:grey
+}
+
+.dziecko {
+background-color:green
+}
+
+div {
+color:orange
+}
+
+[type=text] {
+color:green;
+font-size:16px
+}
+
+[type=submit] {
+border-radius:3px;
+border: 2px solid blue;
+}
+
+.imie {
+width:300px
+}
